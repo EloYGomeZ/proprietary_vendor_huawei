@@ -39,8 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/u8833/proprietary/bin/thermald:system/bin/thermald \
     vendor/huawei/u8833/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
-    vendor/huawei/u8833/proprietary/bin/wpa_cli:system/bin/wpa_cli \
-    vendor/huawei/u8833/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/huawei/u8833/proprietary/bin/write_NV_114:system/bin/write_NV_114 \
     vendor/huawei/u8833/proprietary/bin/wlan_detect:system/bin/wlan_detect \
     vendor/huawei/u8833/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
