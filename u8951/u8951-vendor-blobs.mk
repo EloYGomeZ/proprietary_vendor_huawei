@@ -21,6 +21,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8951/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/huawei/u8951/proprietary/bin/gpu_dcvsd:system/bin/gpu_dcvsd \
     vendor/huawei/u8951/proprietary/bin/gps_check:system/bin/gps_check \
+    vendor/huawei/u8951/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/huawei/u8951/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/huawei/u8951/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/huawei/u8951/proprietary/bin/load_oemlogo:system/bin/load_oemlogo \
     vendor/huawei/u8951/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
